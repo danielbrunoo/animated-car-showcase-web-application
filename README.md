@@ -1,5 +1,5 @@
-# website-with-animation
-Site interativo e visualmente atraente usando HTML, CSS e JavaScript. 
+#  Aplicação Web Animada de Exibição de Veículos
 
-Estrutura do site com HTML, estilização com CSS para um design moderno e responsivo,
-e animações dinâmicas com CSS e JavaScript para uma experiência de usuário envolvente.
+Aplicação web interativa e visualmente atraente de exibição de veículos. Design moderno, responsivo e
+animações dinâmicas para uma experiência de usuário envolvente.
+• Tecnologias usadas: HTML, CSS, JavaScript
